@@ -6,6 +6,12 @@ OBJECTIVES
 
 
 To find out which age groups are the most common visitors .
+
+
 To find the aggregate popularity across five major global landmarks by the tourist rating.
+
+
 To analyze the variance between preferred tour duration and actual tour duration.
+
+
 To analyze visitor satisfaction scores for each landmark across different rating categories.
